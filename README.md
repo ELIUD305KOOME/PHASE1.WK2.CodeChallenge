@@ -22,8 +22,8 @@ git@github.com:ELIUD305KOOME/wk.2.git
 
 ```
 
-# Live Link
- https://eliud305koome.github.io/wk.2/
+# Live link
+https://eliud305koome.github.io/PHASE1.WK2.CodeChallenge/
 
 ## Technologies used
 HTML
